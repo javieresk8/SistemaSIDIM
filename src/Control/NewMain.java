@@ -7,7 +7,7 @@ import View.Modulos;
 
 public class NewMain {
     public static void main(String[] args) {
-        ModContribuyentes in = new ModContribuyentes();
+        Login in = new Login();
         in.setVisible(true);
         
          
